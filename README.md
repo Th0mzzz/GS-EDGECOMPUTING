@@ -42,22 +42,22 @@ Nosso sistema simples e eficiente monitora dois parâmetros críticos:
 # Guia Rápido de Simulação no Wokwi 📒
 
 1. **Abra o projeto**  
-   Cole o link do seu circuito Wokwi no navegador ou <a href="https://wokwi.com/projects/432216818038467585" target="_blank" >Clique aqui!</a>
+   <a href="https://wokwi.com/projects/432216818038467585" target="_blank" >Clique aqui!</a>
 
-2. **Inicie a simulação**  
+3. **Inicie a simulação**  
    Pressione **“Start Simulation”** no canto superior esquerdo.
 
-3. **Testando o nível da água**
+4. **Testando o nível da água**
 
    - Clique no sensor ultrassônico (HC-SR04).
    - Ajuste o controle de **“Distance”** para simular a água subindo e descendo.
 
-4. **Testando a intensidade da chuva**
+5. **Testando a intensidade da chuva**
 
    - Clique no potenciômetro.
    - Gire o botão (ou ajuste o valor) para simular chuva fraca ou forte.
 
-5. **Veja o resultado**
+6. **Veja o resultado**
    - LEDs mudam de cor conforme o nível do rio.
    - Buzzer dispara em caso de nível crítico ou chuva intensa + nivel de atenção.
 
